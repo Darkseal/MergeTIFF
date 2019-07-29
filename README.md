@@ -36,4 +36,4 @@ The project strongly relies upon the [*MergeTiff* helper class](https://www.ryad
 
 # Feedbacks
 
-If you have questions, suggestions or any other feedback you would like to share with us, feel free to get in touch using our [contact form](https://www.ryadel.com/en/contacts/) or the GitHub project's issues [enter link description here](https://github.com/Darkseal/MergeTIFF/issues)page.
+If you have questions, suggestions or any other feedback you would like to share with us, feel free to get in touch using our [contact form](https://www.ryadel.com/en/contacts/) or the GitHub project's [issues](https://github.com/Darkseal/MergeTIFF/issues) page.
