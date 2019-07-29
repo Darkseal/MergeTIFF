@@ -32,7 +32,7 @@ The *WiX Toolset* is only required if you plan to build the installer EXE for th
 
 # Code References
 
-The project strongly relies upon the [*MergeTiff* helper class](https://www.ryadel.com/en/asp-net-c-sharp-merge-tiff-files-into-single-multipage-tif/), which was released on this a while ago: if you like to know more about how it actually works, we strongly suggest take a look at [this post](https://www.ryadel.com/en/asp-net-c-sharp-merge-tiff-files-into-single-multipage-tif/). In case you want to know more about GDI+ - the Windows managed graphics interfaces which we used to build the class - we also suggest to read [this post](https://www.ryadel.com/en/multipage-tiff-files-asp-net-c-sharp-gdi-alternative/).
+The project strongly relies upon the [*MergeTiff* helper class](https://www.ryadel.com/en/asp-net-c-sharp-merge-tiff-files-into-single-multipage-tif/), which was released on [ryadel.com](https://www.ryadel.com/en/asp-net-c-sharp-merge-tiff-files-into-single-multipage-tif/) a while ago: if you like to know more about how it actually works, we strongly suggest take a look at [this post](https://www.ryadel.com/en/asp-net-c-sharp-merge-tiff-files-into-single-multipage-tif/). In case you want to know more about GDI+ - the Windows managed graphics interfaces which we used to build the class - we also suggest to read [this post](https://www.ryadel.com/en/multipage-tiff-files-asp-net-c-sharp-gdi-alternative/).
 
 # Feedbacks
 
