@@ -1,12 +1,28 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.2</TargetFramework>
+    <Authors>Darkseal</Authors>
+    <Company>Ryadel</Company>
+    <Description>A lightweight, open-source .NET Core console application to merge multiple TIFF files in a single multi-page TIFF file - source code available on GitHub</Description>
+    <Copyright>Ryadel, 2019</Copyright>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <PackageProjectUrl>https://www.ryadel.com/en/mergetiff-asp-net-core-merge-tiff-tif-files-multi-page-open-source-free-download/</PackageProjectUrl>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/Darkseal/MergeTIFF</RepositoryUrl>
+    <PackageTags>tif, tiff, MergeTIFF, .NET Core, C#</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="Microsoft.Windows.Compatibility" Version="2.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="LICENSE">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
   </ItemGroup>
 
 </Project>
